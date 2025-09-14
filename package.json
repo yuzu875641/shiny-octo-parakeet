@@ -1,0 +1,14 @@
+{
+  "name": "chatwork-bot",
+  "version": "1.0.0",
+  "description": "A Chatwork bot that responds with a random image.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "form-data": "^4.0.0"
+  }
+}
